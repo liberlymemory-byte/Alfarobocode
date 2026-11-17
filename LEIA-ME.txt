@@ -1,0 +1,21 @@
+GRUPO ALFA - ROBOCODE
+
+Arquivos:
+- Robo1.java: robô atacante.
+- Robo2.java: robô defensor.
+
+COMO USAR
+1. Abra o Robocode no computador.
+2. Entre em Robot > Source Editor > File > New Robot.
+3. Crie o pacote "grupo" (minúsculo, sem espaços).
+4. Crie Robo1 e Robo2 e cole o conteúdo dos arquivos .java.
+5. Compile os dois robôs.
+6. Na tela principal, vá em Robot > Create a Team.
+7. Selecione Robo1 e Robo2 e salve como TimeAlfa.team.
+8. Vá em Battle > New, adicione o time e os adversários e inicie a batalha.
+
+IMPORTANTE
+O arquivo .team é gerado pelo próprio Robocode. Ele não é incluído aqui porque
+depende da instalação e da compilação dos robôs no seu computador.
+
+Os códigos usam TeamRobot para reconhecer o parceiro e evitar atirar nele.
